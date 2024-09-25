@@ -7,3 +7,4 @@ Feature: Kullanici olarak otel rezervasyonu olusturabilirim
     Then Rezervasyon basarili sekildi olusturuldu
     And Kullanici olustulan rezervasyonu iptal ediyor
     And ads
+    Then deneme
