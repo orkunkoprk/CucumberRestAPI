@@ -6,3 +6,4 @@ Feature: Kullanici olarak otel rezervasyonu olusturabilirim
     When Kullanici otel rezervasyonu yaratiyor
     Then Rezervasyon basarili sekildi olusturuldu
     And Kullanici olustulan rezervasyonu iptal ediyor
+    And ads
